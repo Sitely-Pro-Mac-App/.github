@@ -22,7 +22,7 @@ Optimized for the macOS ecosystem, Sitely Pro runs flawlessly on MacBook Air, Ma
 
 Whether you are a small business owner, a freelancer, or a creative professional, Sitely Pro for Mac offers the tools and flexibility needed to create a powerful online identity without any technical expertise.
 
-![Sitely Pro Interface](https://static.macupdate.com/screenshots/357392/m/phpczfojd-screenshot.png)
+![Sitely Pro Interface](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/da/e5/83dae531-c718-db37-eab1-78651865d11f/3.png/643x0w.jpg)
 
 ---
 
